@@ -4,6 +4,7 @@ This is Abhishek Basu's collection of personal notes on python, statistics, mach
 
 ## Important Links
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html#rd)
 
 
